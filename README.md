@@ -33,4 +33,3 @@ $ npm run dev
 
 # O servidor inciará na porta:3001 - acesse <http://localhost:3001>
 ```
-# NodeApi
